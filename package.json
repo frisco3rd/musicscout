@@ -1,0 +1,24 @@
+{
+  "name": "musicscout",
+  "version": "1.0.0",
+  "description": "music release project",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./bin/www",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/frisco3rd/musicscout.git"
+  },
+  "author": "us3",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/frisco3rd/musicscout/issues"
+  },
+  "homepage": "https://github.com/frisco3rd/musicscout#readme",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3"
+  }
+}
